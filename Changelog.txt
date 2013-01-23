@@ -1,0 +1,5 @@
+2011/5/2 アイコンを変更。ビルドはNetbeans IDE 7.1.2
+         build-impl.xmlでエラーとなった為変更。
+         <!-- <copylibs compress="${jar.compress}" index="${jar.index}" indexMetaInf="${jar.index.metainf}" jarfile="${dist.jar}" manifest="@{manifest}" rebase="${copylibs.rebase}" runtimeclasspath="${run.classpath.without.build.classes.dir}"> -->
+              <copylibs compress="${jar.compress}" index="${jar.index}" indexMetaInf="${jar.index.metainf}" jarfile="${dist.jar}" manifest="@{manifest}"  runtimeclasspath="${run.classpath.without.build.classes.dir}">
+ 

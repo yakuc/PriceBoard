@@ -1,0 +1,63 @@
+http://202.218.198.112/rate/swap_rate/rate.xml?1292049568325
+
+
+
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--Copyright (c) 2001-2008 FXCM Japan ALL RIGHTS RESERVED -->
+
+<root>
+
+<CPair><name>EUR/USD</name><JPName>ユーロ／米ドル</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>1.3227</RateBid><RateAsk>1.32298</RateAsk><SwapBid>-6</SwapBid><SwapAsk>4</SwapAsk><Spread>2.8</Spread></CPair>
+
+<CPair><name>USD/JPY</name><JPName>米ドル／円</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>83.94</RateBid><RateAsk>83.956</RateAsk><SwapBid>-6</SwapBid><SwapAsk>3</SwapAsk><Spread>1.6</Spread></CPair>
+
+<CPair><name>GBP/USD</name><JPName>ポンド／米ドル</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>1.58083</RateBid><RateAsk>1.58133</RateAsk><SwapBid>-11</SwapBid><SwapAsk>9</SwapAsk><Spread>5.0</Spread></CPair>
+
+<CPair><name>USD/CHF</name><JPName>米ドル／スイスフラン</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>0.97999</RateBid><RateAsk>0.98037</RateAsk><SwapBid>-6</SwapBid><SwapAsk>4</SwapAsk><Spread>3.8</Spread></CPair>
+
+<CPair><name>EUR/CHF</name><JPName>ユーロ／スイスフラン</JPName><DateTime>2010-12-11 05:59:56.0</DateTime><RateBid>1.29639</RateBid><RateAsk>1.29685</RateAsk><SwapBid>-13</SwapBid><SwapAsk>10</SwapAsk><Spread>4.6</Spread></CPair>
+
+<CPair><name>AUD/USD</name><JPName>豪ドル／米ドル</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>0.98505</RateBid><RateAsk>0.98544</RateAsk><SwapBid>-105</SwapBid><SwapAsk>103</SwapAsk><Spread>3.9</Spread></CPair>
+
+<CPair><name>USD/CAD</name><JPName>米ドル／カナダドル</JPName><DateTime>2010-12-11 05:59:59.0</DateTime><RateBid>1.00919</RateBid><RateAsk>1.00952</RateAsk><SwapBid>12</SwapBid><SwapAsk>-20</SwapAsk><Spread>3.3</Spread></CPair>
+
+<CPair><name>NZD/USD</name><JPName>NZドル／米ドル</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>0.74798</RateBid><RateAsk>0.74844</RateAsk><SwapBid>-48</SwapBid><SwapAsk>45</SwapAsk><Spread>4.6</Spread></CPair>
+
+<CPair><name>EUR/GBP</name><JPName>ユーロ／ポンド</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>0.83651</RateBid><RateAsk>0.83683</RateAsk><SwapBid>2</SwapBid><SwapAsk>-5</SwapAsk><Spread>3.2</Spread></CPair>
+
+<CPair><name>EUR/JPY</name><JPName>ユーロ／円</JPName><DateTime>2010-12-11 05:59:58.0</DateTime><RateBid>111.023</RateBid><RateAsk>111.068</RateAsk><SwapBid>-12</SwapBid><SwapAsk>9</SwapAsk><Spread>4.5</Spread></CPair>
+
+<CPair><name>GBP/JPY</name><JPName>ポンド／円</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>132.696</RateBid><RateAsk>132.762</RateAsk><SwapBid>-20</SwapBid><SwapAsk>15</SwapAsk><Spread>6.6</Spread></CPair>
+
+<CPair><name>CHF/JPY</name><JPName>スイスフラン／円</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>85.624</RateBid><RateAsk>85.676</RateAsk><SwapBid>-1</SwapBid><SwapAsk>-3</SwapAsk><Spread>5.2</Spread></CPair>
+
+<CPair><name>GBP/CHF</name><JPName>ポンド／スイスフラン</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>1.54934</RateBid><RateAsk>1.55002</RateAsk><SwapBid>-20</SwapBid><SwapAsk>17</SwapAsk><Spread>6.8</Spread></CPair>
+
+<CPair><name>EUR/AUD</name><JPName>ユーロ／豪ドル</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>1.34234</RateBid><RateAsk>1.34296</RateAsk><SwapBid>134</SwapBid><SwapAsk>-136</SwapAsk><Spread>6.2</Spread></CPair>
+
+<CPair><name>EUR/CAD</name><JPName>ユーロ／カナダドル</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>1.33497</RateBid><RateAsk>1.33552</RateAsk><SwapBid>20</SwapBid><SwapAsk>-29</SwapAsk><Spread>5.5</Spread></CPair>
+
+<CPair><name>AUD/CAD</name><JPName>豪ドル／カナダドル</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>0.9942</RateBid><RateAsk>0.9948</RateAsk><SwapBid>-94</SwapBid><SwapAsk>81</SwapAsk><Spread>6.0</Spread></CPair>
+
+<CPair><name>AUD/JPY</name><JPName>豪ドル／円</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>82.683</RateBid><RateAsk>82.743</RateAsk><SwapBid>-110</SwapBid><SwapAsk>107</SwapAsk><Spread>6.0</Spread></CPair>
+
+<CPair><name>CAD/JPY</name><JPName>カナダドル／円</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>83.137</RateBid><RateAsk>83.199</RateAsk><SwapBid>-28</SwapBid><SwapAsk>15</SwapAsk><Spread>6.2</Spread></CPair>
+
+<CPair><name>NZD/JPY</name><JPName>NZドル／円</JPName><DateTime>2010-12-11 05:59:59.0</DateTime><RateBid>62.775</RateBid><RateAsk>62.848</RateAsk><SwapBid>-52</SwapBid><SwapAsk>48</SwapAsk><Spread>7.3</Spread></CPair>
+
+<CPair><name>GBP/AUD</name><JPName>ポンド／豪ドル</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>1.60421</RateBid><RateAsk>1.60517</RateAsk><SwapBid>156</SwapBid><SwapAsk>-158</SwapAsk><Spread>9.6</Spread></CPair>
+
+<CPair><name>AUD/NZD</name><JPName>豪ドル／NZドル</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>1.31633</RateBid><RateAsk>1.31736</RateAsk><SwapBid>-44</SwapBid><SwapAsk>40</SwapAsk><Spread>10.3</Spread></CPair>
+
+<CPair><name>AUD/CHF</name><JPName>豪ドル／スイスフラン</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>0.96544</RateBid><RateAsk>0.96599</RateAsk><SwapBid>-115</SwapBid><SwapAsk>111</SwapAsk><Spread>5.5</Spread></CPair>
+
+<CPair><name>EUR/NZD</name><JPName>ユーロ／NZドル</JPName><DateTime>2010-12-11 06:00:00.0</DateTime><RateBid>1.76751</RateBid><RateAsk>1.76871</RateAsk><SwapBid>76</SwapBid><SwapAsk>-81</SwapAsk><Spread>12.0</Spread></CPair>
+
+<CPair><name>ZAR/JPY</name><JPName>ランド／円</JPName><DateTime>2010-12-11 05:59:57.0</DateTime><RateBid>12.195</RateBid><RateAsk>12.285</RateAsk><SwapBid>-19</SwapBid><SwapAsk>17</SwapAsk><Spread>9.0</Spread></CPair>
+
+<CPair><name>HKD/JPY</name><JPName>香港ドル／円</JPName><DateTime>2010-12-11 05:59:57.0</DateTime><RateBid>10.797</RateBid><RateAsk>10.814</RateAsk><SwapBid>-2</SwapBid><SwapAsk>-1</SwapAsk><Spread>1.7</Spread></CPair>
+
+<CPair><name>SGD/JPY</name><JPName>SGドル／円</JPName><DateTime>2010-12-11 05:59:37.0</DateTime><RateBid>64.138</RateBid><RateAsk>64.232</RateAsk><SwapBid>-9</SwapBid><SwapAsk>0</SwapAsk><Spread>9.4</Spread></CPair>
+
+</root>
