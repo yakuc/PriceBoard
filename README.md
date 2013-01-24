@@ -8,4 +8,9 @@ Javaで作られているためWindows/Mac/Linuxで動作します。
 
 開発環境はNetBeans IDE 7.1.2で作成しております。
 
-* License
+LICENSE
+-------
+
+GNU General Public License, version 3 (GPL-3.0)
+
+
